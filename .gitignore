@@ -2,6 +2,9 @@
 /public
 /themes
 
+### for firebase ###
+/.firebase-debug.log
+
 # Created by https://www.gitignore.io/api/emacs,linux,sass,vim,visualstudiocode,windows
 
 ### Emacs ###
