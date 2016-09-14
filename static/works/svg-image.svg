@@ -1,0 +1,12 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" width="900" height="300">
+  <g id="bg-layer">
+    <rect fill="#46D" x="0" y="0" width="900" height="300" />
+  </g>
+  <g id="strokes" fill="none" stroke="#FFF" stroke-width="3" stroke-dasharray="8" transform="translate(300,150)">
+    <path d="M-1000,0 h2000" />
+    <path d="M0,-1000 v2000" />
+    <line x1="0" y1="0" x2="-300" y2="300" />
+    <circle cx="-100" cy="-170" r="300" />
+    <circle cx="600" cy="170" r="300" />
+  </g>
+</svg>
