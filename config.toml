@@ -1,0 +1,26 @@
+baseurl = "https://0xd.jp"
+languageCode = "ja"
+HasCJKLanguage = true
+title = "カンバスたれ、計算機"
+copyright = "&copy; 2009 少年D"
+
+[params]
+author = "少年D"
+email = "called_D"
+description = "CG置き場"
+locale = "ja_JP"
+twitter = "@called_D"
+
+[[menu.main]]
+  name = "Index"
+  url = "/"
+  weight = -100
+
+[[menu.main]]
+  name = "Works"
+  url = "/works"
+  weight = -50
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
