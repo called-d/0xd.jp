@@ -3,6 +3,7 @@ languageCode = "ja"
 HasCJKLanguage = true
 title = "カンバスたれ、計算機"
 copyright = "&copy; 2009 少年D"
+googleAnalytics = "UA-84231805-1"
 
 [params]
 author = "少年D"
