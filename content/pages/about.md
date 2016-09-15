@@ -39,6 +39,17 @@ CG置き場。svgや3DCGのレンダリング結果など、書くことによ�
 
 プログラム書ける人たちが、人類がこれから先一万年のあいだ使っていくであろう魔法を作るのだと信じている。
 
+<hr>
+
+Mail
+: called.0xd@gmail.com
+
+GitHub
+: [called-d](https://github.com/called-d)
+
+Twitter
+: [@called_D](https://twitter.com/called_D)
+
 ### ものづくること
 
 幼いころ紙いっぱいに落書きをしたように、<ruby>計算機<rt>コンピュータ</rt></ruby>という無限のカンバスに描きなぐる。
