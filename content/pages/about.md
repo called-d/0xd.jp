@@ -5,6 +5,7 @@ title = "About"
 description = "少年Ｄと、このCG置き場に関すること"
 url = "about"
 image = "/img/header-bg.svg"
+raster = "/img/logo.png"
 
 +++
 
@@ -27,6 +28,7 @@ CG置き場。svgや3DCGのレンダリング結果など、書くことによ�
 
 ページの生成は[Hugo](https://gohugo.io)にやってもらいました。Markdownで書きたいので。ホスティングにはFirebaseを、管理その他にはgithubを使っています。
 
+<a id="called_D"></a>
 ### 少年Ｄに関して
 
 何かが降りてきている間は三大欲求よりも製作欲求が上位に来る、よくいるタイプの人。
@@ -49,6 +51,9 @@ GitHub
 
 Twitter
 : [@called_D](https://twitter.com/called_D)
+
+モノカキ
+: http://mypage.syosetu.com/429937/
 
 ### ものづくること
 
